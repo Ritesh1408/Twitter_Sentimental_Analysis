@@ -70,4 +70,5 @@ It utilizes a dataset from Twitter to train a model that can classify tweets as 
 - `Twitter Sentiment Analysis using ML.ipynb`: Google Collab Notebook containing the project code.
 - `trained_model.sav`: Saved trained model for future predictions.
 
+---- feel free to contribute more models --------- 
 
